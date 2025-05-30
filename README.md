@@ -1,6 +1,7 @@
 # Semantic Image Segmentation with U-Net (TensorFlow)
 
 
+![image](https://github.com/user-attachments/assets/2e35e6a3-23cd-4630-8b31-cf7f524ef75a)
 
 Semantic segmentation is a fundamental task in computer vision where each pixel of an image is assigned to a class label. This project builds a semantic segmentation pipeline using the U-Net architecture in TensorFlow, trained on the KITTI Segmentation Dataset.
 
